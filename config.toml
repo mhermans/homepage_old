@@ -64,9 +64,9 @@ enableGitInfo = false
   gravatar = true  # Get your avatar from Gravatar.com? (true/false)
   #avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "maarten@mhermans.net"
-  #address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  address = "HIVA – KU Leuven, Room 03.05, Leuven, 3000, Belgium"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  #phone = "888 888 88 88"
+  phone = " +3216372092"
   #skype = "echo123"
   #telegram = ""
 
@@ -234,14 +234,21 @@ enableGitInfo = false
     link = "//twitter.com/hermansm"
 
   [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "//github.com/mhermans"
+
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/maarten-hermans-b3327798/"
+
+  [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
     link = "https://scholar.google.be/citations?user=lETPLewAAAAJ"
 
-  [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/mhermans"
+
 
 
 # Navigation Links
