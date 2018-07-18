@@ -6,7 +6,7 @@ draft = false
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 time_start = 2018-05-25T18:30:00
-time_end = 2030-06-01T15:00:00
+#time_end = 2030-06-01T15:00:00
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -17,7 +17,7 @@ event = "Lezing ABVV Syndicaal Café"
 #event_url = "https://example.org"
 
 # Location of event.
-location = "London, United Kingdom"
+location = "Antwerpen, Belgium"
 
 # Is this a selected talk? (true/false)
 selected = false
