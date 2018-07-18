@@ -1,11 +1,11 @@
 +++
-title = "Example Talk"
-date = 2017-01-01T00:00:00  # Schedule page publish date.
+title = "De werkplek als permanente democratische vorming"
+date = 2018-05-25T00:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2030-06-01T13:00:00
+time_start = 2018-05-25T18:30:00
 time_end = 2030-06-01T15:00:00
 
 # Abstract and optional shortened version.
@@ -13,8 +13,8 @@ abstract = ""
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "Academic Theme Conference"
-event_url = "https://example.org"
+event = "Lezing ABVV Syndicaal Café"
+#event_url = "https://example.org"
 
 # Location of event.
 location = "London, United Kingdom"
@@ -27,7 +27,7 @@ selected = false
 #   Simply enter your project's filename without extension.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
 #   Otherwise, set `projects = []`.
-#projects = ["deep-learning"]
+#projects = ["denktank-minerva"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -47,9 +47,9 @@ highlight = true
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+#[header]
+#image = "headers/bubbles-wide.jpg"
+#caption = "My caption :smile:"
 
 +++
 
