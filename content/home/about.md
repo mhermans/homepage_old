@@ -10,8 +10,8 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Labor relations and social dialogue",
-	"Employee voice in organizations",
+    "Labor relations",
+	"Employee voice",
 	"Quality of work",
     "Social stratification",
     "FOSS data analysis"
