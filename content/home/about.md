@@ -13,8 +13,8 @@ weight = 5
     "Labor relations",
 	"Employee voice",
 	"Quality of work",
-    "Social stratification",
-    "FOSS data analysis"
+    "FOSS data analysis",
+    "Social stratification"
   ]
 
 # List your qualifications (such as academic degrees).
