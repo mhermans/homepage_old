@@ -1,0 +1,56 @@
++++
+title = "Linking Social Dialogue and the Sustainable Development Goals: Social Dialogue as a Governance Instrument"
+date = 2017-07-12T00:00:00  # Schedule page publish date.
+draft = false
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+time_start = 2017-06-22T11:00:00
+#time_end = 2030-06-01T15:00:00
+
+# Abstract and optional shortened version.
+abstract = "In this ILO – ITUC Issues Paper we draw on development and labour relations literature to set out an initial framework for the consideration and assessment of how social dialogue can contribute to sustainable development. We start from the observation of the International Labour Organization (ILO) and the International Trade Union Confederation (ITUC) that social dialogue, one of the core features of the Decent Work Agenda, is not well known or understood within the development community, and that its potential to contribute to sustainable development and its governance has not been sufficiently realized. This apparent lack of attention to the role of social dialogue is paradoxical, given the demonstrated impact of social dialogue on multiple targets identified in the Sustainable Development Goals (SDG), and its potential for supporting processes that aim to realize those goals. Specifically, we argue that social dialogue is a form of governance that offers certain benefits for the achievement of the SDG, when compared to governance mechanisms that are primary market, State or NGO-driven. These advantages are linked to the inclusive nature of the social dialogue process and the way in which interaction is organized within that process. We provide illustrations of how social dialogue can contribute to five key dimensions of sustainable development, i.e. thematic clusters of SDG: (1) working conditions, workers’ rights and equality at work; (2) access (to public services) and redistribution; (3) growth and innovation; (4) environment and climate; and (5) governance and participation. Secondly, we discuss contextual factors affecting this role of social dialogue, and the link with the principles of the Development Effectiveness Agenda. We finish by outlining a research agenda to improve understanding of the many pathways through which social dialogue can make an contribution to sustainable development."
+abstract_short = ""
+
+# Name of event and optional event URL.
+event = "EADI NORDIC Conference 2017"
+#event_url = "http://eadi-nordic2017.org/"
+
+# Location of event.
+location = "Bergen, Norway"
+
+# Is this a selected talk? (true/false)
+selected = false
+
+# Projects (optional).
+#   Associate this talk with one or more of your projects.
+#   Simply enter your project's filename without extension.
+#   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
+#   Otherwise, set `projects = []`.
+#projects = ["denktank-minerva"]
+
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = []
+
+# Links (optional).
+url_pdf = ""
+url_slides = ""
+url_video = ""
+url_code = ""
+
+# Does the content use math formatting?
+math = true
+
+# Does the content use source code highlighting?
+highlight = true
+
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+#[header]
+#image = "headers/bubbles-wide.jpg"
+#caption = "My caption :smile:"
+
++++
+
+Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code.
