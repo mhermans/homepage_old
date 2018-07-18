@@ -1,6 +1,6 @@
 +++
 title = "A strategy in search of partners: trade union engagement in workplace innovation"
-date = 2018-09-12T00:00:00  # Schedule page publish date.
+date = 2018-07-12T00:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.

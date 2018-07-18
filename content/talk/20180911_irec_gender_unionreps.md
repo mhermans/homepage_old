@@ -1,6 +1,6 @@
 +++
 title = "Evolution and determinants of gender differences in the recruitment of employee representatives"
-date = 2018-09-11T00:00:00  # Schedule page publish date.
+date = 2018-07-11T00:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
