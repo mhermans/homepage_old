@@ -11,6 +11,8 @@ authors = ["Maarten Hermans"]
 tags = ["Academic"]
 summary = "De reacties op het collectief ontslag bij Carrefour zijn doortrokken van een opvallend en disfunctioneel marktdenken over arbeid."
 
+projects = ["denktank-minerva"]
+
 [header]
 image = "http://www.dewereldmorgen.be/images/cache/large/2018/02/19/2697545657-ab367124a8-b.jpg"
 caption = "Image credit: [**De Wereld Morgen**](http://dewereldmorgen.be/)"
@@ -21,7 +23,8 @@ caption = "Image credit: [**De Wereld Morgen**](http://dewereldmorgen.be/)"
 In hun reacties op de aangekondigde ontslagen bij Carrefour wezen onder andere ministers Muyters en Van Overtveldt prompt op het aantal openstaande vacatures, en dat de overheidsrol zich het best beperkt tot jobbegeleiding naar die jobs – “Carrefour is nu eenmaal een privébedrijf”. Ook reageren verschillende arbeidsmarktspecialisten en ­commentatoren opvallend genoeg met enige ergernis dat men zulk een drama maakt rond de ontslagen bij Carrefour. Waarom zoveel verontwaardiging en bewogen getuigenissen? Wat is het probleem als er toch zoveel openstaande jobs zijn?
 
 Men kan een aardig boompje opzetten over of er al dan niet voldoende – en voldoende kwalitatieve – jobs regionaal aanwezig zijn om een grote ontslagronde op te vangen. Maar zelfs indien volgende maand álle Carrefour-werknemers een nieuwe job zouden hebben, dan nog is deze visie op jobverlies en de rol van de overheid frappant. Frappant, omdat ze dusdanig doortrokken is van een principieel marktdenken, waarbij arbeid gereduceerd wordt tot koopwaar.
-Arbeid als koopwaar
+
+## Arbeid als koopwaar
 
 Cru samengevat is het onderliggende idee dat werknemers contractanten zijn die in het nastreven van hun individueel eigenbelang hun arbeid aanbieden als koopwaar op een arbeidsmarkt. Zegt Carrefour als huidige koper van jouw arbeid het contract op, dan zoek je een nieuwe gegadigde. Waarom zou je je dus druk maken om zulk een beëindigd contract, als er voldoende nieuwe kopers zijn voor je arbeid? En bovenal, waarom zou je gezamenlijk protesteren aan een Carrefour-stakerspiket?
 
@@ -47,10 +50,12 @@ Offner en Söderberg beschrijven mooi deze ideeënstrijd, en hoe de ‘market tu
 
 Wars van deze kijk op arbeid als koopwaar op een arbeidsmarkt, is er nog altijd verontwaardiging, protest en solidariteit zichtbaar bij bv. een collectieve sluiting. De grote uitdaging blijft om dit om te zetten in steun voor méér democratische inspraak en controle, en het beschermen en uitbouwen van de collectieve verzekeringssystemen tegen werkloosheid.
 
+*Deze tekst verscheen eerder als [bijdrage voor Denktank Minerva op De Wereld Morgen](http://www.dewereldmorgen.be/artikel/2018/02/19/collectieve-ontslagen-arbeid-is-niet-zomaar-een-koopwaar).*
+
 ## Referenties
 
-Ferreras, I. (2017) Firms as Political Entities. Saving Democracy through Economic Bicameralism. Cambridge University Press: Cambridge.
+Ferreras, I. (2017) *[Firms as Political Entities. Saving Democracy through Economic Bicameralism](http://www.cambridge.org/gb/academic/subjects/politics-international-relations/political-theory/firms-political-entities-saving-democracy-through-economic-bicameralism?format=HB)*. Cambridge University Press: Cambridge.
 
-Offner, A. & Söderberg, G. (2016). The Nobel Factor. The Price in Economics, Social Democracy, and the Market Turn. Princeton University Press: Princeton & Oxford.
+Offner, A. & Söderberg, G. (2016). *[The Nobel Factor. The Price in Economics, Social Democracy, and the Market Turn](https://press.princeton.edu/titles/10841.html)*. Princeton University Press: Princeton & Oxford.
 
-Rogan, T. (2017). The Moral Economists. R. H. Tawney, Karl Polanyi, E. P. Thompson, and the Critique of Capitalism. Princeton University Press: Princeton & Oxford.
+Rogan, T. (2017). *[The Moral Economists. R. H. Tawney, Karl Polanyi, E. P. Thompson, and the Critique of Capitalism](https://press.princeton.edu/titles/11182.html)*. Princeton University Press: Princeton & Oxford.
