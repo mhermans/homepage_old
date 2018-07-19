@@ -1,148 +1,56 @@
 +++
-title = "Academic: the website designer for Hugo"
+title = "Collectieve ontslagen: arbeid is niet zomaar een koopwaar"
 
 date = 2018-02-17T00:00:00
-lastmod = 2018-02-17T00:00:00
+#lastmod = 2018-02-17T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Maarten Hermans"]
 
 tags = ["Academic"]
-summary = "Create a beautifully simple website or blog in under 10 minutes."
+summary = "De reacties op het collectief ontslag bij Carrefour zijn doortrokken van een opvallend en disfunctioneel marktdenken over arbeid."
 
 [header]
 image = "http://www.dewereldmorgen.be/images/cache/large/2018/02/19/2697545657-ab367124a8-b.jpg"
-caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
-
-[[gallery_item]]
-album = "1"
-image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-default.png"
-caption = "Default"
-
-[[gallery_item]]
-album = "1"
-image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-ocean.png"
-caption = "Ocean"
-
-[[gallery_item]]
-album = "1"
-image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-dark.png"
-caption = "Dark"
-
-[[gallery_item]]
-album = "1"
-image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-forest.png"
-caption = "Default"
-
-[[gallery_item]]
-album = "1"
-image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-coffee-playfair.png"
-caption = "Coffee theme with Playfair font"
-
-[[gallery_item]]
-album = "1"
-image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-1950s.png"
-caption = "1950s"
+caption = "Image credit: [**De Wereld Morgen**](http://dewereldmorgen.be/)"
 +++
 
-**Academic** is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. [Check out the latest demo](https://themes.gohugo.io/theme/academic/) of what you'll get in less than 10 minutes. Then head on over to the [Quick Start guide](https://sourcethemes.com/academic/docs/) or take a look at the [Release Notes](https://sourcethemes.com/academic/updates/).
+*Carrefour kondigde vorige maand aan dat er in Frankrijk en België een 3.500-tal jobs op de schop gaan. Terwijl de collectieve ontslagprocedures lopen, is het interessant om de reacties in Vlaanderen op deze ontslagen tegen het licht te houden. Deze reacties zijn namelijk doortrokken van een opvallend principieel marktdenken, een houding die we het best opnieuw kwijtspelen.*
 
-[![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)
+In hun reacties op de aangekondigde ontslagen bij Carrefour wezen onder andere ministers Muyters en Van Overtveldt prompt op het aantal openstaande vacatures, en dat de overheidsrol zich het best beperkt tot jobbegeleiding naar die jobs – “Carrefour is nu eenmaal een privébedrijf”. Ook reageren verschillende arbeidsmarktspecialisten en ­commentatoren opvallend genoeg met enige ergernis dat men zulk een drama maakt rond de ontslagen bij Carrefour. Waarom zoveel verontwaardiging en bewogen getuigenissen? Wat is het probleem als er toch zoveel openstaande jobs zijn?
 
-Key features:
+Men kan een aardig boompje opzetten over of er al dan niet voldoende – en voldoende kwalitatieve – jobs regionaal aanwezig zijn om een grote ontslagronde op te vangen. Maar zelfs indien volgende maand álle Carrefour-werknemers een nieuwe job zouden hebben, dan nog is deze visie op jobverlies en de rol van de overheid frappant. Frappant, omdat ze dusdanig doortrokken is van een principieel marktdenken, waarbij arbeid gereduceerd wordt tot koopwaar.
+Arbeid als koopwaar
 
-- Easily manage various content including homepage, blog posts, publications, talks, and projects
-- Extensible via **color themes** and **widgets/plugins**
-- Write in [Markdown](https://sourcethemes.com/academic/docs/writing-markdown-latex/) for easy formatting and code highlighting, with [LaTeX](https://en.wikibooks.org/wiki/LaTeX/Mathematics) for mathematical expressions
-- Social/academic network linking, [Google Analytics](https://analytics.google.com), and [Disqus](https://disqus.com) comments
-- Responsive and mobile friendly
-- Simple and refreshing one page design
-- Multilingual and easy to customize
+Cru samengevat is het onderliggende idee dat werknemers contractanten zijn die in het nastreven van hun individueel eigenbelang hun arbeid aanbieden als koopwaar op een arbeidsmarkt. Zegt Carrefour als huidige koper van jouw arbeid het contract op, dan zoek je een nieuwe gegadigde. Waarom zou je je dus druk maken om zulk een beëindigd contract, als er voldoende nieuwe kopers zijn voor je arbeid? En bovenal, waarom zou je gezamenlijk protesteren aan een Carrefour-stakerspiket?
 
-## Color Themes
+Het is moeilijk om zich een werknemer voor de geest te halen die zich effectief zo gedraagt. Iemand die hoort dat de vestiging sluit waarin hij en zijn collega’s werken, even op de VDAB-website kijkt, de schouders ophaalt, en de deur achter zich dichttrekt op weg naar een nieuw arbeidscontract. Intuïtief voelen we aan dat hier sociale relaties spelen die zulk een marktvisie op arbeid niet vat. De kritiek op die marktvisie van een individueel eigenbelang nastrevende werknemer kent ondertussen een lange geschiedenis, ook binnen de economie zelf.
 
-Academic is available in different color themes and font themes.
+## Normen in een ‘morele economie’
 
-{{< gallery >}}
+Een mooie illustratie hiervan is het recent verschenen boek van economisch historicus Tim Rogan (2017), waarin hij de argumentatielijn van Britse ‘moral economists’ traceert van R. H. Tawney, over Karl Polanyi en E. P. Thompson, tot onder andere Nobelprijswinnaar Amartya Sen. Centraal in het werk van deze auteurs staat het afwijzen van het idee dat een mens een door eigenbelang gedreven utilitair-rationeel wezen is dat zich beweegt in een abstracte markt van goederen en arbeid.
 
-## Install
+Voor Polanyi bijvoorbeeld werkt een (arbeids)markt enkel omdat ze ingebed is in een bredere set van normen en politieke instituties, en creëren we het fictieve idee dat Carrefour plots ‘als een privébedrijf’ buiten dit kader valt. E.P Thompson beschrijft hoe normen, solidariteit en verontwaardiging spelen in uiteenlopende situaties van de 19e-eeuwse Britse arbeidersklasse, tot voedselopstanden wereldwijd. Vanuit Thompsons’ idee van een ‘moral economy’, met regulerende normen die overtreden kunnen worden, zijn de verontwaardiging en het protest bij een collectieve sluiting zeker te begrijpen.
 
-You can choose from one of the following four methods to install:
+## Democratie versus boardroom
 
-* one-click install using your web browser (recommended)
-* install on your computer using Git with the Command Prompt/Terminal app
-* install on your computer by downloading the ZIP files
-* install on your computer with RStudio
+Een voorbeeld van normen en omkaderende politieke instituties die men impliciet met de voeten treedt, zijn bv. onze huidige democratische principes. Van het kieshokje, over je studentenvereniging tot je lokale vrijwilligersorganisatie: het idee van democratische inspraak en gelijkwaardige betrokkenheid is een wijd aanvaard principe.
 
-### Quick install using your web browser
+Echter, gaat het over inspraak op je werkplek – en zelfs je kostwinning – dan blijft het een grotendeels ondemocratisch verhaal. Beslissingen worden in een board room ergens in Frankrijk genomen, aan werknemers meegedeeld, en noch in hun onderneming, noch via hun politieke vertegenwoordigers kunnen ze op veel inspraak rekenen. Isabelle Ferreras (2017) noemt dit de fundamentele tegenspraak tussen enerzijds onze democratische cultuur en verwachtingen, en anderzijds de ondemocratische realiteit in ondernemingen. Een tegenspraak die verontwaardiging oproept, ongeacht of er voldoende jobs beschikbaar zijn.
 
-1. [Install Academic with Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/sourcethemes/academic-kickstart)
-    * Netlify will provide you with a customizable URL to access your new site
-2. On GitHub, go to your newly created `academic-kickstart` repository and edit `config.toml` to personalize your site. Shortly after saving the file, your site will automatically update
-3. Read the [Quick Start Guide](https://sourcethemes.com/academic/docs/) to learn how to add Markdown content. For inspiration, refer to the [Markdown content](https://github.com/gcushen/hugo-academic/tree/master/exampleSite) which powers the [Demo](https://themes.gohugo.io/theme/academic/)
+## Aura van prestige
 
-### Install with Git
+Dat de visie van arbeid als koopwaar in beleid en publiek debat zo vanzelfsprekend geworden is, is het resultaat van een slingerbeweging in de ideeënstrijd rond het verzekeringsvraagstuk (Offner & Söderberg, 2016). Vertrekkend vanuit de gedachte dat arbeid geen koopwaar is, is het naoorlogse sociaaldemocratisch antwoord dat de overheid voorbij de markt moet gaan in het streven naar volledige tewerkstelling, en dat we het risico op werkloosheid het best collectief verzekeren via sociale zekerheid. Met de ‘market turn’ in de jaren ’80 echter, stelt men deze actieve overheidsrol opnieuw in vraag, en schuift men de markt naar voren als verzekeringsmodel: maximale beschikbaarheid op de – zo gedereguleerd mogelijke – arbeidsmarkt is de beste verzekering tegen werkloosheid.
 
-Prerequisites:
+Offner en Söderberg beschrijven mooi deze ideeënstrijd, en hoe de ‘market turn’ deels geschraagd is geweest door het instellen van een Nobelprijs-tegenhanger voor de economie. Deze prijs hielp o.a. in het verlenen van het nodige prestige aan economen die marktoplossingen naar voren schoven – ongeacht of er veel empirie of sluitende theorie achter zat. De uitkomst van deze ideeënstrijd zorgt er mede voor dat het antwoord op een zwaar collectief ontslag vandaag zo volledig marktgericht is: de werknemer stelt zich het best op als een nuchtere contractant op de arbeidsmarkt, de beste ‘werkloosheidsverzekering’ zijn jobs aanwezig op de arbeidsmarkt, en de rol van de overheid is beperkt tot een louter faciliterende rol in het jobhoppen.
 
-* [Download and install Git](https://git-scm.com/downloads)
-* [Download and install Hugo](https://gohugo.io/getting-started/installing/#quick-install)
+Wars van deze kijk op arbeid als koopwaar op een arbeidsmarkt, is er nog altijd verontwaardiging, protest en solidariteit zichtbaar bij bv. een collectieve sluiting. De grote uitdaging blijft om dit om te zetten in steun voor méér democratische inspraak en controle, en het beschermen en uitbouwen van de collectieve verzekeringssystemen tegen werkloosheid.
 
-1. [Fork](https://github.com/sourcethemes/academic-kickstart#fork-destination-box) the *Academic Kickstart* repository and clone your fork with Git: 
+## Referenties
 
-        git clone https://github.com/sourcethemes/academic-kickstart.git My_Website
-    
-    *Note that if you forked Academic Kickstart, the above command should be edited to clone your fork, i.e. replace `sourcethemes` with your GitHub username.*
+Ferreras, I. (2017) Firms as Political Entities. Saving Democracy through Economic Bicameralism. Cambridge University Press: Cambridge.
 
-2. Initialize the theme:
+Offner, A. & Söderberg, G. (2016). The Nobel Factor. The Price in Economics, Social Democracy, and the Market Turn. Princeton University Press: Princeton & Oxford.
 
-        cd My_Website
-        git submodule update --init --recursive
-
-### Install with ZIP
-
-1. [Download](https://github.com/sourcethemes/academic-kickstart/archive/master.zip) and extract *Academic Kickstart*
-2. [Download](https://github.com/gcushen/hugo-academic/archive/master.zip) and extract the *Academic theme* to the `themes/academic/` folder from the above step
-
-### Install with RStudio
-
-[View the guide to installing Academic with RStudio](https://sourcethemes.com/academic/docs/install/#install-with-rstudio)
-
-## Quick start
-
-1. If you installed on your computer, view your new website by running the following command:
-      
-        hugo server
-
-    Now visit [localhost:1313](http://localhost:1313) and your new Academic powered website will appear. Otherwise, if using Netlify, they will provide you with your URL.
-           
-2. Read the [Quick Start Guide](https://sourcethemes.com/academic/docs/) to learn how to add Markdown content, customize your site, and deploy it. For inspiration, refer to the [Markdown content](https://github.com/gcushen/hugo-academic/tree/master/exampleSite) which powers the [Demo](https://themes.gohugo.io/theme/academic/)
-
-3. Build your site by running the `hugo` command. Then [host it for free using Github Pages](https://georgecushen.com/create-your-website-with-hugo/) or Netlify (refer to the first installation method). Alternatively, copy the generated `public/` directory (by FTP, Rsync, etc.) to your production web server (such as a university's hosting service).
-
-## Updating
-
-Feel free to *star* the project on [Github](https://github.com/gcushen/hugo-academic/) to help keep track of updates and check out the [release notes](https://sourcethemes.com/academic/updates) prior to updating your site.
-
-Before updating the framework, it is recommended to make a backup of your entire website directory (or at least your `themes/academic` directory) and record your current version number.
-
-By default, Academic is installed as a Git submodule which can be updated by running the following command:
-
-```bash
-git submodule update --remote --merge
-```
-
-[Check out the update guide](https://sourcethemes.com/academic/docs/update/) for full instructions and alternative methods.
-
-## Feedback & Contributing
-
-Please use the [issue tracker](https://github.com/gcushen/hugo-academic/issues) to let me know about any bugs or feature requests, or alternatively make a pull request.
-
-For support, head over to the [Hugo discussion forum](http://discuss.gohugo.io).
-
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md) license.
+Rogan, T. (2017). The Moral Economists. R. H. Tawney, Karl Polanyi, E. P. Thompson, and the Critique of Capitalism. Princeton University Press: Princeton & Oxford.
