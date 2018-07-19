@@ -20,7 +20,7 @@ caption = "Image credit: [**De Wereld Morgen**](http://dewereldmorgen.be/)"
 
 *Carrefour kondigde vorige maand aan dat er in Frankrijk en België een 3.500-tal jobs op de schop gaan. Terwijl de collectieve ontslagprocedures lopen, is het interessant om de reacties in Vlaanderen op deze ontslagen tegen het licht te houden. Deze reacties zijn namelijk doortrokken van een opvallend principieel marktdenken, een houding die we het best opnieuw kwijtspelen.*
 
-{{% Alert note%}}Deze tekst verscheen eerder als [bijdrage voor Denktank Minerva op De Wereld Morgen](http://www.dewereldmorgen.be/artikel/2018/02/19/collectieve-ontslagen-arbeid-is-niet-zomaar-een-koopwaar).{{% /Alert%}}
+{{% alert note%}}Deze tekst verscheen eerder als [bijdrage voor Denktank Minerva op De Wereld Morgen](http://www.dewereldmorgen.be/artikel/2018/02/19/collectieve-ontslagen-arbeid-is-niet-zomaar-een-koopwaar).{{% /alert%}}
 
 In hun reacties op de aangekondigde ontslagen bij Carrefour wezen onder andere ministers Muyters en Van Overtveldt prompt op het aantal openstaande vacatures, en dat de overheidsrol zich het best beperkt tot jobbegeleiding naar die jobs – “Carrefour is nu eenmaal een privébedrijf”. Ook reageren verschillende arbeidsmarktspecialisten en ­commentatoren opvallend genoeg met enige ergernis dat men zulk een drama maakt rond de ontslagen bij Carrefour. Waarom zoveel verontwaardiging en bewogen getuigenissen? Wat is het probleem als er toch zoveel openstaande jobs zijn?
 
