@@ -70,5 +70,3 @@ image = "fig3_AERA_density_size_subject_mean_noother.png"
 caption = "AERA-journals in context"
 
 +++
-
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
