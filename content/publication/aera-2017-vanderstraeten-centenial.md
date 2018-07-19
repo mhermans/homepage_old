@@ -1,6 +1,6 @@
 +++
 title = "Scholarly Communication in AERA Journals, 1931 to 2014"
-date = 2015-09-01T00:00:00
+date = 2016-12-14T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
