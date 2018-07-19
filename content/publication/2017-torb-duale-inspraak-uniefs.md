@@ -43,7 +43,7 @@ projects = ["employee-representatives"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://limo.libis.be/primo-explore/fulldisplay?docid=LIRIAS1898300"
+url_pdf = "https://limo.libis.be/primo-explore/fulldisplay?docid=LIRIAS1898300&context=L&vid=Lirias&search_scope=Lirias&isFrbr=true&tab=default_tab&lang=en_US"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
