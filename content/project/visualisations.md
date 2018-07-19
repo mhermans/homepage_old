@@ -6,7 +6,7 @@ date = 2016-04-27T00:00:00
 title = "Datavisualisation in practice"
 
 # Project summary to display on homepage.
-summary = "Implementing datavisualisation best practices in (policyresearch) practice using R & Python."
+summary = "Implementing datavisualisation best practices in (policy research) practice using R & Python."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "bubbles.jpg"

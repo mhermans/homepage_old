@@ -3,7 +3,7 @@
 date = 2016-04-27T00:00:00
 
 # Project title.
-title = "Measurements and visualisations in sociology of science"
+title = "Measurement & visualisation in sociology of science"
 
 # Project summary to display on homepage.
 summary = "NetworkLorem ipsum dolor sit amet, consectetur adipiscing elit."
