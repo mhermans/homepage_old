@@ -2,7 +2,7 @@
 title = "Collectieve ontslagen: arbeid is niet zomaar een koopwaar"
 
 date = 2018-02-17T00:00:00
-#lastmod = 2018-02-17T00:00:00
+lastmod = 2018-02-17T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

@@ -1,8 +1,8 @@
 +++
 title = "Sociale klasse en politiek: de grote verdwijntruc"
 
-date = 2018-02-17T00:00:00
-#lastmod = 2018-02-17T00:00:00
+date = 2018-04-25T00:00:00
+lastmod = 2018-04-25T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
