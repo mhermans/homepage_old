@@ -8,7 +8,7 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Maarten Hermans"]
 
-tags = ["Academic"]
+tags = ["labor relations", "collective action"]
 summary = "De reacties op het collectief ontslag bij Carrefour zijn doortrokken van een opvallend en disfunctioneel marktdenken over arbeid."
 
 projects = ["denktank-minerva"]
