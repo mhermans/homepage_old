@@ -14,8 +14,8 @@ summary = "Inspraak op het werk en brede democratische betrokkenheid zijn gelink
 projects = ["denktank-minerva"]
 
 [header]
-image = "http://www.dewereldmorgen.be/images/cache/xl/2018/04/25/7797275736-88bf387e62-b.jpg"
-caption = "Image credit: [**De Wereld Morgen**](http://dewereldmorgen.be/)"
+image = "http://www.dewereldmorgen.be/images/cache/large/2018/01/31/schermafbeelding-2018-01-31-om-11.00.00.png"
+caption = "Image credit: [**Pixabay / De Wereld Morgen**](http://dewereldmorgen.be/)"
 +++
 
 *Op school leer je het belang van inspraak en democratische betrokkenheid, iets waar je best niet te veel op hoopt wanneer je begint te werken. Onderzoek toont echter juist een duidelijke link tussen inspraak op het werk en brede democratische betrokkenheid. Onze autoritaire werkomgevingen en het weren van vakbonden betekenen dus in de praktijk een verzwakking van ons algemeen democratisch bestel. *
