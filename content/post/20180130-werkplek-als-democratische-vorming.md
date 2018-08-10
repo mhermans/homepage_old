@@ -8,7 +8,7 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Maarten Hermans"]
 
-tags = ["social class", "political sociology"]
+tags = ["economic democracy", "political sociology", "employee voice"]
 summary = "Inspraak op het werk en brede democratische betrokkenheid zijn gelinkt. Autoritaire werkomgevingen en vakbonden weren van vakbonden betekenen dus een verzwakking van ons democratisch bestel. "
 
 projects = ["denktank-minerva"]
