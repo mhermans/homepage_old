@@ -50,6 +50,6 @@ Zijn deze twee recente studies en beleidsaanbevelingen het laatste woord over de
  
 ## Studies
 
-O'Higgins N. en Moscariello V. (2017). Labour market institutions and youth labour markets: Minimum wages and youth employment revisited. In O'Higgins, N. (Red.), Rising to the Youth Employment Challenge: New Evidence on Key Policy Issues. International Labour Office: Geneva.
+O'Higgins N. en Moscariello V. (2017). Labour market institutions and youth labour markets: Minimum wages and youth employment revisited. In O'Higgins, N. (Red.), *Rising to the Youth Employment Challenge: New Evidence on Key Policy Issues*. International Labour Office: Geneva.
 
-Sturn, S. (2017). ‘[Do Minimum Wages Lead to Job Losses? Evidence from OECD Countries on Low-Skilled and Youth Employment](https://doi.org/10.1177/0019793917741259)’. *ILR Review*.
+Sturn, S. (2017). *[Do Minimum Wages Lead to Job Losses? Evidence from OECD Countries on Low-Skilled and Youth Employment](https://doi.org/10.1177/0019793917741259)*. *ILR Review*.
